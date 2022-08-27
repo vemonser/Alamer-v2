@@ -5,7 +5,7 @@ import { useRouter } from "next/router";
 import IconBoxes from "../../components/contact/IconBoxes";
 
 import Head from "next/head";
-import DepartmentsHeroImg from "../../components/departments/departmentsHeroImg";
+import DepartmentsHeroImg from "../../components/departments/DepartmentsHeroImg";
 import Hypermarket from "../../components/departments/Hypermarket";
 import ShoppingDepartment from "../../components/departments/ShoppingDepartment";
 import ResturantsDepartment from "../../components/departments/ResturantsDepartment";
