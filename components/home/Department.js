@@ -340,7 +340,7 @@ export default function Department({ currentDir }) {
           cursor={"pointer"}
           borderRadius={"full"}
           py={2}
-pos={"relative}
+pos={"relative"}
           px={6}
           maxW="max-content"
           mx="auto"
