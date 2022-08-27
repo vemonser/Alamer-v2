@@ -340,11 +340,11 @@ export default function Department({ currentDir }) {
           cursor={"pointer"}
           borderRadius={"full"}
           py={2}
+pos={"relative}
           px={6}
           maxW="max-content"
           mx="auto"
-          zIndex={"10"}
-          color="#fff"
+           color="#fff"
         >
       <Link href="/departments">
           <Text fontFamily={"bukrabold"}>المزيد</Text>
